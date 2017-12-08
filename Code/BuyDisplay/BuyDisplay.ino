@@ -28,8 +28,8 @@
 #define COLORED     0
 #define UNCOLORED   1
 
-char ssid[] = "Turd";         // your network SSID (name)
-char pass[] = "catinthehat";  // your network password
+char ssid[] = "****";         // your network SSID (name)
+char pass[] = "****";  // your network password
 int status = WL_IDLE_STATUS;  // the Wifi radio's status
 
 ClosedCube_HDC1080 hdc1080;
