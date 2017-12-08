@@ -30,7 +30,7 @@
 
 
 char ssid[] = "***";         // your network SSID (name)
-char pass[] = "***catinthehat";  // your network password
+char pass[] = "***";  // your network password
 int status = WL_IDLE_STATUS;  // the Wifi radio's status
 
 ClosedCube_HDC1080 hdc1080;
